@@ -2,6 +2,8 @@
 
 Rektcha is a simple captcha solving tool that analyzes a given image and solves the captcha. 
 
+![Example](http://i.imgur.com/EhCHOJr.png)
+
 ## Installation
 You're going to want to install the following tools:
 
